@@ -1,0 +1,1 @@
+Create a card component where we can pass a image, title and subtitle call it Card.tsx. Create a CardContainer component which will use card and we will pass cards as props cards will be an array of image url, title text and subtitle text. Please use tailwind
